@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: file.list() returns an empty array
+- text: file.getParentFile() returns null
+- text: file.getParent() returns the same object
+- text: file.listFiles() returns null
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15178#comment
+status: Solved
+record: -1

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: file.getParentFile() returns null
+- text: file.list() returns an empty array
+- text: file.listFiles() returns null
+- text: file.getParent() returns an array of parents
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15179#comment
+status: Solved
+record: -1
+custom_name: What is true?

@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: It represents a root directory
+- text: It is a directory
+- text: It includes three subdirectories
+- text: It is placed in a directory
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15173#comment
+status: Solved
+record: -1

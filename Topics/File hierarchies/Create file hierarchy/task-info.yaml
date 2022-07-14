@@ -1,0 +1,29 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val mainDirectory = File("/Projects/Programming")
+        // write your code here
+        val labDirectory = ...
+        val reportFile = ...
+
+
+        // do not touch the lines below
+        files.forEach {
+            if (it.path == "/Projects/Programming" && it.isDirectory) {
+                print("true")
+            } else if (it.path == "/Projects/Programming/Project1" && it.isDirectory) {
+                print("true")
+            } else if (it.path == "/Projects/Programming/Report.pdf" && it.isFile) {
+                print("true")
+            } else {
+                print("false")
+            }
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15180#comment
+status: Solved
+record: -1

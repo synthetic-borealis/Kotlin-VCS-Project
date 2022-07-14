@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Version_Control_System.Topics-File_hierarchies-Choose_the_correct_statement.main" target="11" />
+      <module name="Version_Control_System.Topics-File_hierarchies-Create_file_hierarchy.main" target="11" />
+      <module name="Version_Control_System.Topics-File_hierarchies-File_or_directory.main" target="11" />
+      <module name="Version_Control_System.Topics-File_hierarchies-Non-empty_root_directory.main" target="11" />
+      <module name="Version_Control_System.Topics-File_hierarchies-Theory.main" target="11" />
+      <module name="Version_Control_System.Topics-File_hierarchies-What_happens_here.main" target="11" />
+      <module name="Version_Control_System.Topics-File_hierarchies-What_is_true.main" target="11" />
+      <module name="Version_Control_System.util.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-classes-kotlin.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-reports-tests.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-test-results.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-tmp.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
